@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\bin\Debug\netcoreapp3.1\Aula24Objetos argumentos.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\bin\Debug\netcoreapp3.1\Aula24Objetos argumentos.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\bin\Debug\netcoreapp3.1\Aula24Objetos argumentos.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\bin\Debug\netcoreapp3.1\Aula24Objetos argumentos.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\bin\Debug\netcoreapp3.1\Aula24Objetos argumentos.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\bin\Debug\netcoreapp3.1\Aula24Objetos argumentos.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\obj\Debug\netcoreapp3.1\Aula24Objetos argumentos.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\obj\Debug\netcoreapp3.1\Aula24Objetos argumentos.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\obj\Debug\netcoreapp3.1\Aula24Objetos argumentos.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\obj\Debug\netcoreapp3.1\Aula24Objetos argumentos.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula24Objetos argumentos\obj\Debug\netcoreapp3.1\Aula24Objetos argumentos.pdb
